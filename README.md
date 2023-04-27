@@ -18,7 +18,7 @@ Idea --> LLM creation --> LLM training and model wrangling --> Electronics desig
 
 ## Stuff to be added later
 > Proper procedures
-> CAD/PCB Design files
-> LLM reference data set
-> LLM training info
-> etc.
+CAD/PCB Design files
+LLM reference data set
+LLM training info
+etc.
