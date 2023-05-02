@@ -7,3 +7,9 @@ This README.md is located in /dog/ relative to other files being in:
  - /dog/LLM/
  - ../CAD/
 
+##General System Requirements
+ - minimum python version >= 3.10.x
+ - pyqt6 and pyqt6-tools
+ - pytorch2 -- with minimum prefered CUDA device >= CUDA 11.7
+ - gcc with cmake and associated C/C++ tools 
+ - ~~tensorflow 2~~ -- under testing
