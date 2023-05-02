@@ -1,0 +1,4 @@
+[submodule "extern/pybind"]
+	path = extern/pybind
+	url = ../../pybind/pybind11
+	branch = stable
